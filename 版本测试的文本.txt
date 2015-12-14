@@ -1,3 +1,6 @@
 1.初始值；
 2.测试修改带来的版本变化；
 3.再改变内容，以引起版本增加；
+
+21. branch2forTest now begin, a new branch from Master, different branch from branch 1
+	in the coming future ,i will merge these branchs to see what  finnaly content is . 
