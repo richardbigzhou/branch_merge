@@ -1,3 +1,6 @@
 1.初始值；
 2.测试修改带来的版本变化；
 3.再改变内容，以引起版本增加；
+
+11. branchTest now begin!
+12. change content on new branch
