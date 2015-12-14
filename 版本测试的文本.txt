@@ -2,5 +2,11 @@
 2.测试修改带来的版本变化；
 3.再改变内容，以引起版本增加；
 
+<<<<<<< HEAD
 11. branchTest now begin!
 12. change content on new branch
+=======
+21. branch2forTest now begin, a new branch from Master, different branch from branch 1
+	in the coming future ,i will merge these branchs to see what  finnaly content is . 
+22. change content to grows version of  branch2forTest
+>>>>>>> refs/remotes/origin/Branch2forTest
